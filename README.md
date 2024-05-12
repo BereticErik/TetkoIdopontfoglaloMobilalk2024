@@ -1,0 +1,1 @@
+# TetkoIdopontfoglaloMobilalk2024
