@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461593055914",
+    "project_id": "beretic-mobilalkalmazasfejl",
+    "storage_bucket": "beretic-mobilalkalmazasfejl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461593055914:android:bf231bec7d5e2b605736d3",
+        "android_client_info": {
+          "package_name": "com.example.tattooappointment2024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461593055914-rnkeovk5nnmhkon9ht0oi3bo0bposrsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwVyskDPSprc1TZoPQo_qagIT19Bq4s0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461593055914-rnkeovk5nnmhkon9ht0oi3bo0bposrsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
